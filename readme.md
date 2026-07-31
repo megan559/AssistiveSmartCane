@@ -64,28 +64,7 @@ No new habits to learn. No bulky wearables. Just a cane that quietly got smarter
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/megan559/smart-cane.git
-cd smart-cane
-
-# Set up the backend
-cd backend
-pip install -r requirements.txt
-python app.py
-
-# Flash the ESP32 firmware
-# (see /firmware for wiring diagram + upload instructions)
-
-# Build and run the Android app
-# Open /android in Android Studio and run on device/emulator
-```
-
-> 📌 You'll need API keys for Gemini and Google Directions — add them to a `.env` file in `/backend` (see `.env.example`).
-
----
 
 ## 🎯 Why It Matters
 
