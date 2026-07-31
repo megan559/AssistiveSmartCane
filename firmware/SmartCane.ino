@@ -5,8 +5,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ---------------- WIFI ----------------
-const char* ssid = "realme 5 Pro";
-const char* password = "87736801252f";
+const char* ssid = "";
+const char* password = "";
 
 // Server is found by name via mDNS (server.py advertises "assistant.local").
 // Filled in at boot after WiFi connects.
