@@ -60,7 +60,7 @@ No new habits to learn. No bulky wearables. Just a cane that quietly got smarter
 - **Backend:** Python, Flask
 - **AI:** Gemini API
 - **Navigation:** Google Directions API
-- **Mobile:** Android (Java/Kotlin)
+- **Mobile:** Android (Java/Python)
 
 ---
 
