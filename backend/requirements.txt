@@ -1,0 +1,15 @@
+# ---------------------------------------------------------------------------
+# SERVER dependencies (server.py + list_models.py) -- runs on the laptop.
+#
+# Install with:   pip install -r requirements.txt
+#
+# NOTE: this is ONLY for the server. The Android APP's dependencies are NOT
+# here -- they live in buildozer.spec's "requirements =" line and are
+# compiled into the APK by python-for-android. Do not pip-install those.
+#
+# Everything server.py imports besides the two below (re, math, json, uuid,
+# socket, threading, time) is Python standard library -- nothing to install.
+# ---------------------------------------------------------------------------
+
+flask
+requests
